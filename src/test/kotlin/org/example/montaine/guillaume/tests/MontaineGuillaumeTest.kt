@@ -7,4 +7,8 @@ class MontaineGuillaumeTest: BehaviorSpec({
 
     context("je veux vérifier les reductions par état et selon les montants") {
 
+        given ("<150 mangas"){
+            val ticket = TicketDeCaisse()
+
+        }
     }})
